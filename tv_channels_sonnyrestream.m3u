@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,CANAL 5.
+http://158.69.228.135:8000/sonnyrestream/XPcPBnofzR/1599
+#EXTINF:-1,CANAL 10 (op2)
+http://158.69.228.135:8000/sonnyrestream/XPcPBnofzR/414
+#EXTINF:-1,CANAL 12 (op2)
+http://158.69.228.135:8000/sonnyrestream/XPcPBnofzR/1860
+#EXTINF:-1,VTV PLUS
+http://158.69.228.135:8000/sonnyrestream/XPcPBnofzR/494
+#EXTINF:-1,CANAL 4 (op1)
+http://158.69.228.135:8000/sonnyrestream/XPcPBnofzR/413
+#EXTINF:-1,VTV SD
+http://158.69.228.135:8000/sonnyrestream/XPcPBnofzR/1450
